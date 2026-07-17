@@ -220,10 +220,9 @@
 		"side": "server"
 	},
     {
-		"op": "replace",
+		"op": "remove",
 		"file": "game:worldgen/blockpatches/berrybush.json",
 		"path": "/9/placement",
-		"value": "OnSurfacePlusUnderTrees",
 		"side": "server"
 	}
 ]
