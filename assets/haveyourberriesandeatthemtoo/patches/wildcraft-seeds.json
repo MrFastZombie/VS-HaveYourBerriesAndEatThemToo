@@ -1,0 +1,39 @@
+[
+    {
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/berryseeds.json",
+        "path": "/1/enabled",
+        "value": false,
+        "side": "Server"
+    },
+    {
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/berryseeds.json",
+        "path": "/2/enabled",
+        "value": false,
+        "side": "Server"
+    },
+    {
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/berryseeds.json",
+        "path": "/3/enabled",
+        "value": false,
+        "side": "Server"
+    },
+    {
+        "comment": "seeds disable",
+        "op": "addmerge",
+        "file": "wildcraftfruit:itemtypes/resources/e-seeds.json",
+        "path": "/skipVariants",
+        "value": ["seeds-gardenstrawberry", "seeds-strawberry", "seeds-cranberry", "seeds-cloudberry"],
+        "side": "Server"
+    },
+    {
+        "comment": "gardenstrawberry recipe",
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/berryseeds.json",
+        "path": "/0/ingredients/H/skipVariants",
+        "value": ["gardenstrawberry"],
+        "side": "Server"
+    }
+]

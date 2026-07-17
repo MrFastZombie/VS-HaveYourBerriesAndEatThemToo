@@ -1,0 +1,65 @@
+[
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbush.json",
+		"path": "/enabled",
+		"value": true,
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbush.json",
+		"path": "/creativeinventory",
+		"value": { "general": [ "*-free" ], "flora": [ "*-free" ] },
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbush.json",
+		"path": "/attributes/handbook/exclude",
+		"value": false,
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbushcutting.json",
+		"path": "/enabled",
+		"value": true,
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbushcutting.json",
+		"path": "/creativeinventory",
+		"value": { "general": [ "*-free" ], "flora": [ "*-free" ] },
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fruitingbushcutting.json",
+		"path": "/attributes/handbook/exclude",
+		"value": false,
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/plantdebris.json",
+		"path": "/enabled",
+		"value": true,
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/plantdebris.json",
+		"path": "/creativeinventory",
+		"value": { "general": [ "*" ], "items": [ "*" ] },
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/plantdebris.json",
+		"path": "/attributes/handbook/exclude",
+		"value": false,
+		"side": "server"
+	}
+]

@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "haveyourberriesandeatthemtoo",
+  "name": "Have Your Berries and Eat Them Too!",
+  "authors": ["MrFastZombie"],
+  "description": "Patch mod that brings Vanilla berry mechanics to Wildcraft fruit",
+  "version": "1.0.0",
+  "dependencies": {
+    "game" : "1.22.0",
+    "wildcraftfruit": "1.4"
+  }
+}

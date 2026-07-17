@@ -1,0 +1,229 @@
+[
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/blockCodes",
+		"value": ["fruitingbush-wild-blackcurrant-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/maxTemp",
+		"value": 23,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/minForest",
+        "value": 0.2,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/minRain",
+		"value": 0.3,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/chance",
+		"value": 0.05,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/0/quantity/var",
+		"value": 6,
+		"side": "server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/blockCodes",
+		"value": ["fruitingbush-wild-redcurrant-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/maxTemp",
+		"value": 22,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/minForest",
+        "value": 0.2,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/minRain",
+		"value": 0.3,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/chance",
+		"value": 0.06,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/1/quantity/var",
+		"value": 6,
+		"side": "server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/blockCodes",
+		"value": ["fruitingbush-wild-whitecurrant-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/maxTemp",
+		"value": 24,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/minForest",
+        "value": 0.2,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/minRain",
+		"value": 0.2,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/chance",
+		"value": 0.03,
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/2/quantity/var",
+		"value": 6,
+		"side": "server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/3/blockCodes",
+		"value": ["fruitingbush-wild-blueberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/3/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/4/blockCodes",
+		"value": ["fruitingbush-wild-cranberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "add",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/4/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/5/blockCodes",
+		"value": ["fruitingbush-wild-strawberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "add",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/5/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/6/blockCodes",
+		"value": ["fruitingbush-wild-beautyberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/6/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/7/blockCodes",
+		"value": ["fruitingbush-wild-cloudberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/7/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/8/blockCodes",
+		"value": ["fruitingbush-wild-blackberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "add",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/8/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/9/blockCodes",
+		"value": ["fruitingbush-wild-raspberry-free"],
+		"side": "server"
+	},
+    {
+		"op": "replace",
+		"file": "game:worldgen/blockpatches/berrybush.json",
+		"path": "/9/placement",
+		"value": "OnSurfacePlusUnderTrees",
+		"side": "server"
+	}
+]
