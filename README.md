@@ -6,7 +6,7 @@ Inspired by several mods on the ModDB:
 
 ### [Wildcraft Fruit and Nuts](https://mods.vintagestory.at/wildcraftfruit)
 
-My favorite plant mod, but I do not like how it changes some vanilla stuff around, and I would like to make all berry bushes use the new system.
+My favorite plant mod, but I do not like how it changes some vanilla stuff around, and I would like to make all berry bushes use the new system. This is the main target of the patches included in this mod.
 
 ### [WildcraftFork](https://mods.vintagestory.at/show/mod/56499)
 
