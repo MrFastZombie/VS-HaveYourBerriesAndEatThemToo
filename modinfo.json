@@ -7,6 +7,6 @@
   "version": "1.0.0",
   "dependencies": {
     "game" : "1.22.0",
-    "wildcraftfruit": "1.4"
+    "wildcraftfruit": "1.4.6"
   }
 }
