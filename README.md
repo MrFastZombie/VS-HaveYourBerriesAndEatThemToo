@@ -2,6 +2,8 @@
 
 My personal berry patch mod for Wildcraft: Fruits and Nuts for Vintage Story that prioritizes Vanilla berry bushes and tries to bring vanilla mechanics to Wildcraft's new berries (WIP).
 
+Note that I have not started a 1.22 world yet. Balance may be adjusted as I play and get a better idea of what it should be.
+
 Inspired by several mods on the ModDB:
 
 ### [Wildcraft Fruits and Nuts](https://mods.vintagestory.at/wildcraftfruit)
