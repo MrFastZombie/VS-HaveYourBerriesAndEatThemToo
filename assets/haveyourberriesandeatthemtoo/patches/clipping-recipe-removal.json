@@ -1,0 +1,26 @@
+[
+    {
+        "comment": "Removing crafting w/ wildcraft clippings",
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/clippingbucket.json",
+        "path": "/0/ingredients/F/skipVariants",
+        "value": ["redcurrant", "blackcurrant", "whitecurrant", "blueberry", "beautyberry", "brambleberry", "raspberry"],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing crafting to wildcraft clippings",
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/clippingbucket.json",
+        "path": "/1/ingredients/F/skipVariants",
+        "value": ["redcurrant", "blackcurrant", "whitecurrant", "blueberry", "beautyberry", "brambleberry", "raspberry"],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing crafting w/ wildcraft clippings",
+        "op": "addmerge",
+        "file": "wildcraftfruit:recipes/grid/clippingstick.json",
+        "path": "/0/ingredients/F/skipVariants",
+        "value": ["redcurrant", "blackcurrant", "whitecurrant", "blueberry", "beautyberry", "brambleberry", "raspberry"],
+        "side": "Server"
+    }
+]

@@ -33,12 +33,15 @@ I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes 
   * Why? Currants to me are the main Vintage story berry, so I like to see them more.
 * Wildcraft's normal strawberries are now "Succulent Strawberries", and drop in addition to vanilla strawberries from cultivated plants and seldomly from wild plants.
   * Renamed vanilla strawberries back to their normal name.
+* All vanilla bush cuttings that have a clipping equivalent in Wildcraft can be crafted into Wildcraft's clipping buckets for long-term storage, which can be crafted back into cuttings.
+  * Strawberries and cranberries are excluded for now as Wildcraft doesn't have buckets for them, but I'd like to add buckets for them too.
+  * Also renamed the buckets to make them line up with the cutting being used.
+* Removed the spaces added by Wildcraft for any strings that mention currants.
+  * It's not wrong, I just prefer the game's spelling.
 
 ## TODO
 
-* Figure out strawberries.
-  * Wildcraft adds its own strawberries, and keeps vanilla as "wild strawberries".
-  * I think I could remove them, and revert the name change.
-  * Another option is calling them "Succulent Strawberries" and making them an uncommon drop from plants.
 * Add vanilla mechanics to new berries.
 * Remove all seeds, clippings, and bushes that are no longer needed.
+* Add buckets for cuttings that don't have them.
+* Change bucket models for cuttings to something closer.

@@ -1,0 +1,10 @@
+[
+    {
+        "comment": "clipping overlap disable",
+        "op": "addmerge",
+        "file": "wildcraftfruit:itemtypes/resources/clipping.json",
+        "path": "/skipVariants",
+        "value": ["clipping-blackcurrant-green", "clipping-blackcurrant-dry", "clipping-redcurrant-green", "clipping-redcurrant-dry", "clipping-whitecurrant-green", "clipping-whitecurrant-dry", "clipping-blueberry-green", "clipping-blueberry-dry", "clipping-beautyberry-green", "clipping-beautyberry-dry", "clipping-brambleberry-green", "clipping-brambleberry-dry", "clipping-raspberry-green", "clipping-raspberry-dry"],
+        "side": "Server"
+    }
+]
