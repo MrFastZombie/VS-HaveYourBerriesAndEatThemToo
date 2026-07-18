@@ -1,0 +1,98 @@
+[
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/berrybush.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-redcurrant-*", 
+            "*-blackcurrant-*", 
+            "*-whitecurrant-*", 
+            "*-beautyberry-*", 
+            "*-brambleberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/groundberryplant.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-strawberry-*",
+            "*-gardenstrawberry-*",
+            "*-cloudberry-*",
+            "*-cranberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/pricklyberrybush.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-raspberry-*",
+            "*-brambleberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/pricklyberrybush.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-raspberry-*",
+            "*-brambleberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/rootsucker.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-raspberry-*",
+            "*-brambleberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/scion.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-redcurrant-*", 
+            "*-blackcurrant-*", 
+            "*-whitecurrant-*", 
+            "*-beautyberry-*", 
+            "*-brambleberry-*",
+            "*-raspberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/shortberrybush.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-blueberry-*"
+        ],
+        "side": "Server"
+    },
+    {
+        "comment": "Removing unused bushes",
+        "op": "addmerge",
+        "file": "wildcraftfruit:blocktypes/plant/berry/toppricklybush.json",
+        "path": "/skipVariants",
+        "value": [
+            "*-raspberry-*",
+            "*-brambleberry-*"
+        ],
+        "side": "Server"
+    }
+]
