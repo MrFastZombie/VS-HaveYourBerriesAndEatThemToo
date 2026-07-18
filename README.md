@@ -1,10 +1,10 @@
 # Have your Berries and Eat Them Too (WIP)
 
-My personal berry patch mod for Wildcraft: Fruits and Nuts for Vintage Story that prioritizes Vanilla berry bushes and tries to bring vanilla mechanics to them (WIP).
+My personal berry patch mod for Wildcraft: Fruits and Nuts for Vintage Story that prioritizes Vanilla berry bushes and tries to bring vanilla mechanics to Wildcraft's new berries (WIP).
 
 Inspired by several mods on the ModDB:
 
-### [Wildcraft Fruit and Nuts](https://mods.vintagestory.at/wildcraftfruit)
+### [Wildcraft Fruits and Nuts](https://mods.vintagestory.at/wildcraftfruit)
 
 My favorite plant mod, but I do not like how it changes some vanilla stuff around, and I would like to make all berry bushes use the new system. This is the main target of the patches included in this mod.
 
