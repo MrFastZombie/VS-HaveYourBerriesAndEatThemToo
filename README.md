@@ -29,6 +29,7 @@ I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes 
 ## Current Changes
 
 * All vanilla berry bushes have been re-enabled.
+* Disabled all Wildcraft bushes that overlap with Vanilla bushes.
 * All berry bushes that have vanilla counterparts will now spawn only the vanilla variants of those bushes.
 * Currants have been made slightly more common than they usually are with Wildcraft.
   * If Fruit Refreshed is installed, curreants have variance reduced from 8 to 6. (Vanilla: 4)
@@ -44,6 +45,5 @@ I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes 
 ## TODO
 
 * Add vanilla mechanics to new berries.
-* Remove all seeds, clippings, and bushes that are no longer needed.
 * Add buckets for cuttings that don't have them.
 * Change bucket models for cuttings to something closer.
