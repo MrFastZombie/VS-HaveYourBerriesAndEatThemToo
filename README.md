@@ -1,6 +1,6 @@
 # Have your Berries and Eat Them Too (WIP)
 
-My personal berry patch mod for Wildcraft: Fruits and Nuts for Vintage Story that prioritizes Vanilla berry bushes and tries to bring vanilla mechanics to Wildcraft's new berries (WIP).
+My personal berry patch mod for Wildcraft: Fruits and Nuts for Vintage Story that prioritizes Vanilla berry bushes.
 
 Note that I have not started a 1.22 world yet. Balance may be adjusted as I play and get a better idea of what it should be.
 
@@ -12,7 +12,7 @@ My favorite plant mod, but I do not like how it changes some vanilla stuff aroun
 
 ### [WildcraftFork](https://mods.vintagestory.at/show/mod/56499)
 
-I like that this one applies vanilla mechanics to Wildcraft's berry bushes but I don't like that it's released as a full fork with a different modid and without a repository to do this. Also doesn't use the vanilla bush models yet :(
+I like that this one applies vanilla mechanics to Wildcraft's berry bushes but I don't like that it's released as a full fork with a different modid. Also doesn't use the vanilla bush models yet :(
 
 ### [Wildcraft Fruits and Nuts compatibility patch](https://mods.vintagestory.at/wildpatch#tab-description)
 
@@ -22,9 +22,9 @@ I like this one for adding the vanilla bushes back in with their models, but I d
 
 Most of the changes this mod makes sound like what I want, but I may want to tweak some things. So while I am still using Fruit Refreshed, I may use this mod to tweak some things too. Currently, I'm considering lowering wild fruit yields and having the increased yields from Fruit Refreshed on cultivated bushes since they have a different blockid. I may not be able to do this with the new Wildcraft bushes, however.
 
-## Why do I want vanilla bush mechanics?
+## Why do I want vanilla bushes?
 
-I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes are being givenn traits and aren't 100% free to cultivate. To be honest, I haven't played 1.22 properly yet and I would like to try the new systems out first. Plus, if I find that I don't like the new systems I'd like to mod them to make them better rather than removee them.
+I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes are being given traits and aren't 100% free to cultivate. To be honest, I haven't played 1.22 properly yet and I would like to try the new systems out first. Plus, if I find that I don't like the new systems I'd like to mod them to make them better rather than removee them.
 
 ## Current Changes
 
@@ -44,6 +44,6 @@ I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes 
 
 ## TODO
 
-* Add vanilla mechanics to new berries.
+* Add vanilla mechanics to new berries. (Would like to do this, though I'm not sure how easy it'd be to do!)
 * Add buckets for cuttings that don't have them.
 * Change bucket models for cuttings to something closer.
