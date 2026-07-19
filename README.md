@@ -42,6 +42,17 @@ I've seen a lot criticism on the vanilla bush mechanics, but I like that bushes 
 * Removed the spaces added by Wildcraft for any strings that mention currants.
   * It's not wrong, I just prefer the game's spelling.
 
+## Harvest changes
+
+The changes in drops from harvesting berries are shown in the table below. Note that this only covers vanilla berries. Other changes will be noted seperately.
+
+|                               | others (wild) | cloudberry (wild) | strawberry (wild)           | others (cultivated) | cloudberry (cultivated) | strawberry (cultivated) |
+|-------------------------------|---------------|-------------------|-----------------------------|---------------------|-------------------------|-------------------------|
+| Vanilla drops                 | 5.5           | 2.75              | 2.75                        | 5.5                 | 2.75                    | 2.75                    |
+| Fruit Refreshed               | 8.5           | 8.5               | 8.5                         | 8.5                 | 8.5                     | 8.5                     |
+| This patch                    | 5.5           | 2.75              | 6 + 2 (1 var) succ. strawbs | 6.5                 | 2.75                    | 3 + 2 succ. strawbs     |
+| Fruit Refereshed + This patch | 6.5           | 3.75              | 4 + 0.15 succ. strawbs      | 8.5                 | 5                       | 6 + 2 succ. strawbs     |
+
 ## TODO
 
 * Add vanilla mechanics to new berries. (Would like to do this, though I'm not sure how easy it'd be to do!)

@@ -32,7 +32,7 @@
         "file": "game:blocktypes/plant/fruitingbush.json",
         "path": "/attributes/harvestedStacksByType/*-grown-strawberry-*",
         "value": [
-            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 1.75 }  },
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 3 }  },
             { "type": "item", "code": "wildcraftfruit:fruit-gardenstrawberry", "quantity": { "avg": 2 }  }
         ],
         "side": "Server",
@@ -53,7 +53,28 @@
         "op": "remove",
         "file": "game:blocktypes/plant/fruitingbush.json",
         "path": "/attributes/harvestedStacksByType/*-cloudberry-*",
-        "side": "Server"
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*-wild-cloudberry-*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 3.75 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*-grown-cloudberry-*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
     },
     {
         "op": "remove",
@@ -64,11 +85,61 @@
     {
         "op": "addmerge",
         "file": "game:blocktypes/plant/fruitingbush.json",
-        "path": "/attributes/harvestedStacksByType/*",
+        "path": "/attributes/harvestedStacksByType/*-wild-*-*",
         "value": [
             { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 6.5 }  }
         ],
         "side": "Server",
         "dependsOn": [ { "modid": "fruitrefreshed"} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*-wild-*-*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 5.5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed", "invert": true} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*-grown-*-*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 6.5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed", "invert": true } ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*-grown-*-*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 8.5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 8.5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed"} ]
+    },
+    {
+        "op": "addmerge",
+        "file": "game:blocktypes/plant/fruitingbush.json",
+        "path": "/attributes/harvestedStacksByType/*",
+        "value": [
+            { "type": "item", "code": "fruit-{type}", "quantity": { "avg": 5.5 }  }
+        ],
+        "side": "Server",
+        "dependsOn": [ { "modid": "fruitrefreshed", "invert": true} ]
     }
 ]
